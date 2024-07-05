@@ -1,2 +1,2 @@
-nginx:1.24.0-alpine
---platform=linux/arm64 nginx
+--platform=linux/arm64 nginx:1.24.0-alpine
+--platform=linux/amd64 nginx:1.24.0-alpine
