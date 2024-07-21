@@ -1,2 +1,2 @@
---platform=linux/arm64 nginx:1.24.0-alpine
---platform=linux/amd64 nginx:1.24.0-alpine
+--platform=linux/arm64 redislabs/redisinsight:2.52
+--platform=linux/amd64 redislabs/redisinsight:2.52
