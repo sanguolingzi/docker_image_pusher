@@ -1,2 +1,2 @@
---platform=linux/arm64 redislabs/redisinsight:2.52
---platform=linux/amd64 redislabs/redisinsight:2.52
+--platform=linux/arm64 dockerpinata/inotify-tools:2.1
+--platform=linux/amd64 dockerpinata/inotify-tools:2.1
