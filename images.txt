@@ -1,2 +1,1 @@
---platform=linux/arm64 redis/redisinsight:2.54
---platform=linux/amd64 redis/redisinsight:2.54
+--platform=linux/amd64 postgres:12.20-bullseye
