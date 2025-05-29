@@ -1,1 +1,1 @@
---platform=linux/amd64 postgres:12.20-bullseye
+--platform=linux/arm64 jenkins/jenkins:2.434
