@@ -1,1 +1,2 @@
---platform=linux/arm64 jenkins/jenkins:2.434
+--platform=linux/arm64 zookeeper:3.8.3
+--platform=linux/amd64 zookeeper:3.8.3
