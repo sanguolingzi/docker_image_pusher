@@ -1,1 +1,2 @@
---platform=linux/arm64 redis:7.2.10-alpine
+--platform=linux/arm64 zookeeper:3.8.4
+--platform=linux/amd64 zookeeper:3.8.4
