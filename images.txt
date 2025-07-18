@@ -1,2 +1,1 @@
---platform=linux/amd64 redis:7.2.10-alpine
---platform=linux/linux/arm64/v8 redis:7.2.10-alpine
+--platform=linux/arm64 redis:7.2.10-alpine
