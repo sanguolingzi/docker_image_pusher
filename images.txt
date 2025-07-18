@@ -1,2 +1,2 @@
---platform=linux/arm64 nginx:1.29.0-alpine
---platform=linux/amd64 nginx:1.29.0-alpine
+--platform=linux/arm64 redis:6.2.19-alpine
+--platform=linux/amd64 redis:6.2.19-alpine
