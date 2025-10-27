@@ -1,2 +1,1 @@
---platform=linux/arm64 redis:6.2.20-alpine
---platform=linux/amd64 redis:6.2.20-alpine
+--platform=linux/amd64 atmoz/sftp:debian
