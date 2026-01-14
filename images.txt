@@ -1,1 +1,1 @@
---platform=linux/amd64 atmoz/sftp:debian
+--platform=linux/amd64 magiccoders/nginxpulse:latest
