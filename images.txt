@@ -1,1 +1,2 @@
---platform=linux/amd64 magiccoders/nginxpulse:latest
+--platform=linux/amd64 allinurl/goaccess:1.9.4
+--platform=linux/arm64 allinurl/goaccess:1.9.4
