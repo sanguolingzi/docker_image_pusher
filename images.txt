@@ -1,2 +1,2 @@
---platform=linux/amd64 apache/skywalking-ui:10.3.0
---platform=linux/arm64 apache/skywalking-ui:10.3.0
+--platform=linux/amd64 apache/skywalking-banyandb:0.9.0
+--platform=linux/arm64 apache/skywalking-banyandb:0.9.0
