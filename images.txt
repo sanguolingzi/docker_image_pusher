@@ -1,2 +1,2 @@
---platform=linux/amd64 redislabs/redisinsight:3.2.0
---platform=linux/arm64 redislabs/redisinsight:3.2.0
+--platform=linux/amd64 golang:1.21-alpine
+--platform=linux/arm64 golang:1.21-alpine
