@@ -1,2 +1,2 @@
---platform=linux/amd64 node:24.11.1-alpine3.23
---platform=linux/arm64 node:24.11.1-alpine3.23
+--platform=linux/amd64 node:24.11.1-bookworm-slim
+--platform=linux/arm64 node:24.11.1-bookworm-slim
