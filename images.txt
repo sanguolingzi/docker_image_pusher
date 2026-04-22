@@ -1,2 +1,2 @@
---platform=linux/amd64 ghcr.io/puppeteer/puppeteer:24.42.0
---platform=linux/arm64 ghcr.io/puppeteer/puppeteer:24.42.0
+--platform=linux/amd64 node:24.11.1-alpine3.23
+--platform=linux/arm64 node:24.11.1-alpine3.23
