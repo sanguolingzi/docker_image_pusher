@@ -1,2 +1,2 @@
---platform=linux/amd64 zookeeper:3.8.6
---platform=linux/arm64 zookeeper:3.8.6
+--platform=linux/amd64 nginx:1.30.2-alpine-perl
+--platform=linux/arm64 nginx:1.30.2-alpine-perl
