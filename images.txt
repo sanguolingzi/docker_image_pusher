@@ -1,2 +1,2 @@
---platform=linux/amd64 ncabatoff/process-exporter:v0.8.7
---platform=linux/arm64 ncabatoff/process-exporter:v0.8.7
+--platform=linux/amd64 ubuntu:24.04
+--platform=linux/arm64 ubuntu:24.04
