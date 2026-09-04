@@ -1,2 +1,2 @@
---platform=linux/amd64 eclipse-temurin:21.0.12_8-jdk-alpine-3.24
---platform=linux/arm64 eclipse-temurin:21.0.12_8-jdk-alpine-3.24
+--platform=linux/amd64 oliver006/redis_exporter:v1.90.0-alpine
+--platform=linux/arm64 oliver006/redis_exporter:v1.90.0-alpine
