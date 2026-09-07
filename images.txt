@@ -1,2 +1,1 @@
---platform=linux/amd64 oliver006/redis_exporter:v1.90.0-alpine
---platform=linux/arm64 oliver006/redis_exporter:v1.90.0-alpine
+--platform=linux/amd64 docker pull sonatype/nexus3:3.96.0-alpine
